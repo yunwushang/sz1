@@ -1,5 +1,4 @@
 央视频道,#genre#
-
 CCTV1综合,http://219.146.90.158:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://219.146.90.158:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://219.146.90.158:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -30,7 +29,6 @@ CCTV12社会与法,http://61.153.215.190:9901/tsfile/live/0012_1.m3u8?key=txiptv
 CCTV13新闻,http://61.153.215.190:9901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV14少儿,http://61.153.215.190:9901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV15音乐,http://61.153.215.190:9901/tsfile/live/0015_1.m3u8?key=txiptv
-
 CCTV1综合,http://222.243.24.51:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://180.140.22.174:8088/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://180.140.22.174:8088/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -54,7 +52,6 @@ CCTV怀旧剧场,http://121.19.134.2:808/tsfile/live/1035_1.m3u8?key=txiptv&play
 CCTV风云足球,http://121.19.134.2:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云音乐,http://121.19.134.2:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV第一剧场,http://121.19.134.2:808/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-
 CCTV1综合,http://221.226.218.162:9901/tsfile/live/65432_1.m3u8?key=txiptv
 CCTV2财经,http://222.217.243.197:8181/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经,http://221.226.218.162:9901/tsfile/live/65433_1.m3u8?key=txiptv
@@ -80,7 +77,6 @@ CCTV15音乐,http://222.217.243.197:8181/tsfile/live/0015_1.m3u8?key=txiptv&play
 CCTV15音乐,http://221.226.218.162:9901/tsfile/live/65446_1.m3u8?key=txiptv
 CCTV16奥林匹克,http://221.226.218.162:9901/tsfile/live/65447_1.m3u8?key=txiptv
 CCTV17农业农村,http://221.226.218.162:9901/tsfile/live/65448_1.m3u8?key=txiptv
-
 CCTV1综合,http://183.134.3.22:8888/newlive/live/hls/2/live.m3u8
 CCTV1综合,http://182.107.188.104:8888/newlive/live/hls/2/live.m3u8
 CCTV2财经,http://182.107.188.104:8888/newlive/live/hls/3/live.m3u8
