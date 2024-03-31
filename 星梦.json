@@ -2,7 +2,7 @@
   "spider": "./fan.txt;md5;dd909349c70fe92e82470eba611b7094",
   "lives": [
     {
-      "name": "初秋语•ipv4",
+      "name": "ipv4",
       "type": 0,
       "url": "./lib/list.txt",
       "playerType": 1,
@@ -26,7 +26,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "范明明•ipv6",
+      "name": "ipv6",
       "type": 0,
       "url": "./lib/ipv6.m3u",
       "playerType": 1,
@@ -42,7 +42,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "Yoursmile•综合",
+      "name": "Yoursm综合",
       "type": 0,
       "url": "./lib/live.txt",
       "playerType": 1,
@@ -50,7 +50,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "饭太硬•综合",
+      "name": "综合",
       "type": 0,
       "url": "./lib/tvlive.txt",
       "playerType": 1,
@@ -75,7 +75,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "俊于•综合",
+      "name": "综合",
       "type": 0,
       "url": "./lib/live.txt",
       "playerType": 1,
@@ -83,25 +83,25 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "初秋语•电台",
+      "name": "电台",
       "type": 0,
       "url": "./lib/radio.txt",
       "playerType": 1
     },
     {
-      "name": "范明明•电台",
+      "name": "电台",
       "type": 0,
       "url": "./lib/index.m3u",
       "playerType": 1
     },
     {
-      "name": "肥羊•斗鱼",
+      "name": "斗鱼",
       "type": 0,
       "url": "./lib/douyuyqk.m3u",
       "playerType": 1
     },
     {
-      "name": "肥羊•虎牙",
+      "name": "虎牙",
       "type": 0,
       "url": "./lib/huyayqk.m3u",
       "playerType": 1
