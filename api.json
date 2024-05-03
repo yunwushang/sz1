@@ -32,16 +32,6 @@
             "ext": "./json/玩我哥哥.json"
         },
         {
-            "key": "HK影视",
-            "name": "HK影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/HK影视.json"
-        },
-        {
             "key": "云梦影视",
             "name": "云梦影视",
             "type": 3,
