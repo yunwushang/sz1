@@ -347,4 +347,3 @@ CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 斗鱼游戏HD21,http://43.138.170.29:35455/douyu/10608093
 斗鱼游戏HD22,http://43.138.170.29:35455/douyu/6601808
 斗鱼游戏HD23,http://43.138.170.29:35455/douyu/9747078
-斗鱼游戏HD24,http://43.138.170.29:
