@@ -483,8 +483,6 @@
         },
         {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1
         },
-        {"key":"华为资源","name":"华为资源","type":1,"api":"https://hw8.live/api.php/provide/vod/","searchable":1,"quickSearch":1
-        },
         {
             "key": "晨光电影",
             "name": "🎦晨光电影",
