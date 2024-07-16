@@ -317,22 +317,28 @@
             "filterable": 1
         },
         {
-            "key": "夸看",
-            "name": "┃夸夸┃影视",
+            "key": "drpy_js_哔哩直播",
+            "name": "弹幕┃哔哩直播[js]",
             "type": 3,
-            "jar": "./api/t4.jar",
-            "api": "csp_Duopan",
-            "playerType": 2,
-            "filterable": 1,
-            "ext": "https://duopan.fun/"
+            "api": "./lib/drpy2.min.js",
+            "style": {
+              "type": "rect",
+              "ratio": 1.597
+            },
+            "changeable": 0,
+            "ext": "./lib/哔哩直播.js"
         },
         {
-            "key": "云播",
-            "name": "┃云播┃影视",
+            "key": "drpy_js_JustLive",
+            "name": "直播┃JustLive[js]",
             "type": 3,
-            "playerType": "2",
-            "api": "./lib/t3.js",
-            "ext": "./lib/TVB云播.js"
+            "api": "./lib/drpy2.min.js",
+            "style": {
+              "type": "rect",
+              "ratio": 1.597
+            },
+            "changeable": 0,
+            "ext": "./lib/JustLive.js"
         },
         {
             "key": "1080",
@@ -475,16 +481,9 @@
             "filterable": 1,
             "ext": "./json/dandan.json"
         },
-        {
-            "key": "达达龟",
-            "name": "达龟┃2K",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "playerType": "1",
-            "ext": "./json/dadagui.json"
+        {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1
+        },
+        {"key":"华为资源","name":"华为资源","type":1,"api":"https://hw8.live/api.php/provide/vod/","searchable":1,"quickSearch":1
         },
         {
             "key": "晨光电影",
