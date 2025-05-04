@@ -16,126 +16,6 @@
             "searchable": 0
         },
         {
-            "key": "文采",
-            "name": "💮文采┃秒播",
-            "type": 3,
-            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
-            "api": "csp_JpysGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "苹果bk",
-            "name": "🍎苹果┃不卡",
-            "type": 3,
-            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
-            "api": "csp_LiteAppleGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "糯米",
-            "name": "🍓糯米┃秒播",
-            "type": 3,
-            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
-            "api": "csp_NmyswvGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "白l白",
-            "name": "🐟白l白┃秒播",
-            "type": 3,
-            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
-            "api": "csp_SbaibaiGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "溢l彩",
-            "name": "💡溢l彩┃秒播",
-            "type": 3,
-            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TfN183v1zIyaYDoDAIaLw5L8Dp8+v88LrEL3dBzrmWbdMBX0WNm7HtkQuw0AIzUurGBVyPqCKzDmbriATuukhctJlsLo8KxCw=="
-        },
-        {
-            "key": "zxzj",
-            "name": "🍊在线┃秒播",
-            "type": 3,
-            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
-            "api": "csp_ZxzjGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.zxzjhd.com/"
-        },
-        {
-            "key": "萌米",
-            "name": "👀萌米┃多线",
-            "type": 3,
-            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
-            "api": "csp_AppTTGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA=="
-       },
-       {    
-            "key": "兄弟",
-            "name": "🍊水星┃多线",
-            "type": 3,
-            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO"
-       },
-       {
-            "key": "即看",
-            "name": "🐻即看┃多线",
-            "type": 3,
-            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "rfOX1voDIQhH8epBwtCFsub1+2maloq8lmJuL821WUsZJAZft2UtrrwhKK5Zxt1toWyFctBUmThhuDAjVuU="
-       },
-       {
-            "key": "欢视",
-            "name": "👓欢视┃多线",
-            "type": 3,
-            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
-            "api": "csp_AppTTGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "uqGL1bNENExT9fFAy5mE5qU="
-        },
-        {
             "key": "热播影视",
             "name": "热播｜影视",
             "type": 3,
@@ -395,32 +275,10 @@
             "ext": "jaHR0cDovLzU5LjE1My4xNjcuMTg2OjEwMDk5fFBNS2Faa0F2NFFwNTNFV258UE1LYVprQXY0UXA1M0VXbnw0MjU="
         },
         {
-            "key": "腾讯app",
-            "name": "腾讯视频｜app",
-            "type": 3,
-            "api": "./api/腾讯视频.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
             "key": "优酷app",
             "name": "优酷视频｜app",
             "type": 3,
             "api": "./api/优酷视频.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "芒果tv",
-            "name": "芒果tv｜app",
-            "type": 3,
-            "api": "./api/芒果视频.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -596,6 +454,126 @@
             "type": 3,
             "playerType": "2",
             "api": "csp_Lggys"
+        },
+        {
+            "key": "文采",
+            "name": "💮文采┃秒播",
+            "type": 3,
+            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
+            "api": "csp_JpysGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "苹果bk",
+            "name": "🍎苹果┃不卡",
+            "type": 3,
+            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
+            "api": "csp_LiteAppleGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "糯米",
+            "name": "🍓糯米┃秒播",
+            "type": 3,
+            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
+            "api": "csp_NmyswvGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "白l白",
+            "name": "🐟白l白┃秒播",
+            "type": 3,
+            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
+            "api": "csp_SbaibaiGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "溢l彩",
+            "name": "💡溢l彩┃秒播",
+            "type": 3,
+            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TfN183v1zIyaYDoDAIaLw5L8Dp8+v88LrEL3dBzrmWbdMBX0WNm7HtkQuw0AIzUurGBVyPqCKzDmbriATuukhctJlsLo8KxCw=="
+        },
+        {
+            "key": "zxzj",
+            "name": "🍊在线┃秒播",
+            "type": 3,
+            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
+            "api": "csp_ZxzjGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.zxzjhd.com/"
+        },
+        {
+            "key": "萌米",
+            "name": "👀萌米┃多线",
+            "type": 3,
+            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
+            "api": "csp_AppTTGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA=="
+       },
+       {    
+            "key": "兄弟",
+            "name": "🍊水星┃多线",
+            "type": 3,
+            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO"
+       },
+       {
+            "key": "即看",
+            "name": "🐻即看┃多线",
+            "type": 3,
+            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "rfOX1voDIQhH8epBwtCFsub1+2maloq8lmJuL821WUsZJAZft2UtrrwhKK5Zxt1toWyFctBUmThhuDAjVuU="
+       },
+       {
+            "key": "欢视",
+            "name": "👓欢视┃多线",
+            "type": 3,
+            "jar": "./py/fty.jar;md5;948a482e3bad5bd090a87a6a85d38903",
+            "api": "csp_AppTTGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "uqGL1bNENExT9fFAy5mE5qU="
         },
         {
             "key": "鸭梨影视",
@@ -1921,13 +1899,6 @@
             "timeout": 10
         },
         {
-            "name": "AI直播+",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "timeout": 10
-        },
-        {
             "name": "Guovin",
             "type": 0,
             "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
@@ -1976,15 +1947,6 @@
             "name": "16万mv",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yunwushang/Xc/refs/heads/main/mv16w.txt",
-            "timeout": 10
-        },
-        {
-            "name": "APTV",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.iill.top/logo/{name}.png",
-            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
             "timeout": 10
         }
     ],
