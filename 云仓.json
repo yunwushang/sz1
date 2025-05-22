@@ -90,15 +90,15 @@
             }
         },
         {
-            "key": "仓鼠",
-            "name": "仓鼠｜APP",
+            "key": "诺雪",
+            "name": "诺雪｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://appcms.cs4k.top",
-                "dataKey": "Hui6595253......",
-                "dataIv": "Hui6595253......",
+                "url": "https://appcms.rx4k.top",
+                "dataKey": "LiGFzV6csf21zsu6",
+                "dataIv": "LiGFzV6csf21zsu6",
                 "deviceId": "",
                 "version": ""
             }
