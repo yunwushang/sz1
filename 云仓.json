@@ -90,6 +90,62 @@
             }
         },
         {
+            "key": "水滴",
+            "name": "水滴｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "http://1.94.105.93",
+                "dataKey": "gKdQKLbwhhLp4Ytv",
+                "dataIv": "gKdQKLbwhhLp4Ytv",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "橘猫",
+            "name": "橘猫｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.jm4k.top",
+                "dataKey": "KPEkKAESYi38CQdn",
+                "dataIv": "KPEkKAESYi38CQdn",
+                "deviceId": "",
+                "version": "119"
+            }
+        },
+        {
+            "key": "忍者",
+            "name": "忍者｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://mfxs123.sbs",
+                "dataKey": "1234567887654321",
+                "dataIv": "1234567887654321",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "晴天",
+            "name": "晴天｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://qjappcms.sun4k.top",
+                "dataKey": "sBxqXVF5pAHbGzrH",
+                "dataIv": "sBxqXVF5pAHbGzrH",
+                "deviceId": "",
+                "version": "119"
+            }
+        },
+        {
             "key": "诺雪",
             "name": "诺雪｜APP",
             "type": 3,
