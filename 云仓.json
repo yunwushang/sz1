@@ -65,6 +65,20 @@
             }
         },
         {
+            "key": "咖啡",
+            "name": "咖啡｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "http://160.202.243.62:2566",
+                "dataKey": "qwertyuiopqwerty",
+                "dataIv": "qwertyuiopqwerty",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+        {
             "key": "菲儿影视",
             "name": "菲儿｜APP",
             "type": 3,
@@ -2176,7 +2190,7 @@
         {
             "name": "AI直播",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+            "url": "https://github.3x25.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "timeout": 10
         },
