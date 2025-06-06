@@ -473,6 +473,17 @@
                 "deviceId": "",
                 "version": ""
             }
+        }, 
+        {
+            "key": "边缘影视",
+            "name": "边缘｜2K",
+            "type": 3,
+            "api": "./lip/边缘影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "鲨鱼",
