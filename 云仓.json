@@ -129,13 +129,13 @@
             "name": "橘猫｜APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet",
+            "api": "csp_AppGet2",
             "ext": {
-                "url": "https://appcms.jm4k.top",
-                "dataKey": "KPEkKAESYi38CQdn",
-                "dataIv": "KPEkKAESYi38CQdn",
+                "url": "https://qjappcms.jm4k.top",
+                "dataKey": "pBVmysmGX8TsgrQN",
+                "dataIv": "pBVmysmGX8TsgrQN",
                 "deviceId": "",
-                "version": "119"
+                "version": "120"
             }
         },
         {
