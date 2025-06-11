@@ -195,59 +195,73 @@
             }
         },
         {
-            "key": "乐乐",
-            "name": "乐乐｜APP",
+            "key": "雄鹰",
+            "name": "雄鹰｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "http://122.228.193.2:9988",
+                "dataKey": "ca94b06ca359d80e",
+                "dataIv": "ca94b06ca359d80e",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+        {
+            "key": "晓晓",
+            "name": "晓晓｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://get.le163.top",
-                "dataKey": "4f870065c9c193fc",
-                "dataIv": "4f870065c9c193fc",
+                "url": "https://ys.ewo.asia",
+                "dataKey": "Z0qTnwyLAJCtuIkI",
+                "dataIv": "Z0qTnwyLAJCtuIkI",
                 "deviceId": "",
                 "version": ""
             }
         },
         {
-            "key": "乐看",
-            "name": "乐看｜APP",
+            "key": "溜溜",
+            "name": "溜溜｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://app.weis.vip",
-                "dataKey": "e65144389e9361b5",
-                "dataIv": "e65144389e9361b5",
+                "url": "https://appcms.ll4k.xyz",
+                "dataKey": "NiDGaKiVnkO3QX1Q",
+                "dataIv": "NiDGaKiVnkO3QX1Q",
+                "deviceId": "2fbaf48ee97783260bc907e3ab0bd40c3",
+                "version": "200"
+            }
+        },
+        {
+            "key": "剧咖",
+            "name": "剧咖｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://ys.xiaoqi0.cn",
+                "dataKey": "jukayingshi88888",
+                "dataIv": "jukayingshi88888",
+                "deviceId": "20d9b2c01d130342a99fdc8d693bfc0cd",
+                "version": "112"
+            }
+        },
+        {
+            "key": "瓜萌",
+            "name": "瓜萌｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.guahd.com",
+                "dataKey": "f2A7D4B9E8C16531",
+                "dataIv": "f2A7D4B9E8C16531",
                 "deviceId": "",
                 "version": ""
-            }
-        },
-        {
-            "key": "梦缘",
-            "name": "梦缘｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://150.138.84.88:44444",
-                "dataKey": "fdnwxwnkyylwdyqh",
-                "dataIv": "fdnwxwnkyylwdyqh",
-                "deviceId": "29ac7568b4dc23ca9a40b6ca5b7cc6f68",
-                "version": "520"
-            }
-        },
-        {
-            "key": "麒麟",
-            "name": "麒麟｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.70yy.fun",
-                "dataKey": "sfsdgsgcccss55xa",
-                "dataIv": "sfsdgsgcccss55xa",
-                "deviceId": "2129ec9e6e5703cb0aeeddd79554e38f8",
-                "version": "100"
             }
         },
         {
@@ -1295,6 +1309,16 @@
             },
             "ext": {
                 "url": "https://www.qupanshe.com"
+            }
+        },
+        {
+            "key": "百酷",
+            "name": "百酷｜4K弹幕",
+            "type": 3,
+            "api": "./api/cloud.min.js",
+            "ext": "./api/百酷.js",
+            "style": {
+                "type": "list"
             }
         },
         {
