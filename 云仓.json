@@ -2,15 +2,8 @@
     "spider": "./api/yc.jar",
     "sites": [
         {
-            "key": "禁止",
-            "name": "本文来自网络收集,完全免费，禁止贩卖",
-            "type": 3,
-            "api": "csp_12DF",
-            "searchable": 0
-        },
-        {
             "key": "豆瓣",
-            "name": "豆瓣｜云仓",
+            "name": "本文来自网络收集,完全免费，禁止贩卖｜云仓",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
