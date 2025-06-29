@@ -146,17 +146,45 @@
             }
         },
         {
-            "key": "麻花",
-            "name": "麻花｜APP",
+            "key": "榴莲",
+            "name": "榴莲｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "https://qjappcms.ll4k.xyz",
+                "dataKey": "1yGA85sJ5STtE7uj",
+                "dataIv": "1yGA85sJ5STtE7uj",
+                "deviceId": "",
+                "version": "50000"
+            }
+        },
+        {
+            "key": "桃子",
+            "name": "桃子｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://49.235.114.19:130",
-                "dataKey": "q7gj4f9br3fls6nh",
-                "dataIv": "q7gj4f9br3fls6nh",
-                "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
-                "version": "700"
+                "url": "https://appcms.tzys.xyz",
+                "dataKey": "KL6vlZkw6WL5x90U",
+                "dataIv": "KL6vlZkw6WL5x90U",
+                "deviceId": "4b4c36766c5a6b7736574c3578393055",
+                "version": "119"
+            }
+        },
+        {
+            "key": "魔方",
+            "name": "魔方｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://mfsp33.top",
+                "dataKey": "1234567887654321",
+                "dataIv": "1234567887654321",
+                "deviceId": "",
+                "version": ""
             }
         },
         {
@@ -384,17 +412,44 @@
             }
         },
         {
-            "key": "悠悠",
-            "name": "悠悠｜APP",
+            "key": "晚枫",
+            "name": "晚枫｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://46.203.125.54:7070",
-                "dataKey": "RuN9LRvwTRgpQnpK",
-                "dataIv": "RuN9LRvwTRgpQnpK",
-                "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
-                "version": "547"
+                "url": "http://111.180.202.216:999",
+                "dataKey": "fjhndgbjidfhgjsd",
+                "dataIv": "fjhndgbjidfhgjsd",
+                "deviceId": "2a7baa6ca6f46308cbf1d939bab0586f3",
+                "version": "120"
+            }
+        },
+        {
+            "key": "诺映",
+            "name": "诺映｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.noad.top",
+                "dataKey": "708FA298F0855840",
+                "dataIv": "708FA298F0855840",
+                "deviceId": "2129ec9e6e5703cb0aeeddd79554e38f8",
+                "version": "103"
+            }
+        },
+        {
+            "key": "樱桃",
+            "name": "樱桃｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "http://sp.dxgsp.cc",
+                "dataKey": "25f9e794323b4538",
+                "dataIv": "25f9e794323b4538",
+                "jxurl": "https://ap.dxgsp.cc"
             }
         },
         {
