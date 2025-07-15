@@ -743,7 +743,7 @@
             "key": "偷乐短剧",
             "name": "偷乐｜短剧",
             "type": 3,
-            "api": "./py/偷乐短剧.py",
+            "api": "./api/偷乐短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
