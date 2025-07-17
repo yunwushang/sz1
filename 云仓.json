@@ -117,20 +117,6 @@
             }
         },
         {
-            "key": "水滴",
-            "name": "水滴｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-            "ext": {
-                "url": "http://1.94.105.93",
-                "dataKey": "gKdQKLbwhhLp4Ytv",
-                "dataIv": "gKdQKLbwhhLp4Ytv",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-        {
             "key": "咖啡",
             "name": "咖啡｜APP",
             "type": 3,
