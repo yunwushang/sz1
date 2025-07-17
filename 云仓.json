@@ -1339,6 +1339,32 @@
             "ext": "./api/dawo.json"
         },
         {
+            "key": "小斑快映",
+            "name": "小斑快映｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./api/xbky.json"
+        },
+        {
+            "key": "123",
+            "name": "123｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShareCloud123",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./api/123.json"
+        },
+        {
             "key": "虎斑",
             "name": "虎斑｜4K弹幕",
             "type": 3,
