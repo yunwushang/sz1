@@ -1063,16 +1063,6 @@
             "ext": "./api/魔力高清.js"
         },
         {
-            "key": "闪影",
-            "name": "闪影｜APP",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
-        },
-        {
             "key": "碟调影视",
             "name": "碟调｜影视",
             "type": 3,
@@ -1121,6 +1111,34 @@
             "ext": "./api/茶杯狐.js"
         },
         {
+            "key": "丫丫",
+            "name": "丫丫｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://tv.yy-fun.cc",
+                "dataKey": "qkxnwkfjwpcnwycl",
+                "dataIv": "qkxnwkfjwpcnwycl",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "黑猫动漫",
+            "name": "黑猫｜动漫",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://dm.xxdm123.top:9991",
+                "dataKey": "0fe3b5781782c621",
+                "dataIv": "0fe3b5781782c621",
+                "deviceId": "",
+                "version": "203"
+            }
+        },
+        {
             "key": "1905",
             "name": "1905｜影视",
             "type": 3,
@@ -1139,6 +1157,17 @@
             }
         },
         {
+            "key": "小斑快映",
+            "name": "快映｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./json/xbky.json"
+        },
+        {
             "key": "玩偶哥哥",
             "name": "玩偶｜4K弹幕",
             "type": 3,
@@ -1146,7 +1175,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./api/wogg.json"
+            "ext": "./json/wogg.json"
         },
         {
             "key": "木偶",
@@ -1156,7 +1185,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./api/mogg.json"
+            "ext": "./json/mogg.json"
         },
         {
             "key": "蜡笔",
@@ -1167,7 +1196,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./api/lb.json"
+            "ext": "./json/lb.json"
         },
         {
             "key": "至臻",
@@ -1178,7 +1207,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./api/zz.json"
+            "ext": "./json/zz.json"
         },
         {
             "key": "多多",
@@ -1189,7 +1218,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./api/yyds.json"
+            "ext": "./json/yyds.json"
         },
         {
             "key": "欧哥",
@@ -1200,7 +1229,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./api/og.json"
+            "ext": "./json/og.json"
         },
         {
             "key": "二小",
@@ -1211,18 +1240,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./api/ex.json"
-        },
-        {
-            "key": "百家",
-            "name": "百家｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./api/bj.json"
+            "ext": "./json/ex.json"
         },
         {
             "key": "大玩",
@@ -1233,33 +1251,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./api/dawo.json"
-        },
-        {
-            "key": "小斑快映",
-            "name": "小斑快映｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./api/xbky.json"
-        },
-        {
-            "key": "123",
-            "name": "123｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShareCloud123",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./api/123.json"
+            "ext": "./json/dawo.json"
         },
         {
             "key": "虎斑",
@@ -1270,7 +1262,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./api/hb.json"
+            "ext": "./json/hb.json"
         },
         {
             "key": "闪电",
@@ -1281,18 +1273,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./api/sd.json"
-        },
-        {
-            "key": "下饭",
-            "name": "下饭｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./api/xf.json"
+            "ext": "./json/sd.json"
         },
         {
             "key": "奥秘",
@@ -1303,7 +1284,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./api/am.json"
+            "ext": "./json/am.json"
         },
         {
             "key": "团长",
@@ -1328,7 +1309,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "./api/lj.json"
+            "ext": "./json/lj.json"
         },
         {
             "key": "海绵",
@@ -1343,22 +1324,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "./api/hm.json"
-        },
-        {
-            "key": "Pan1",
-            "name": "123｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShareCloud123",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./api/pan1.json"
+            "ext": "./json/hm.json"
         },
         {
             "key": "夸父",
@@ -1373,7 +1339,22 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "./api/kf.json"
+            "ext": "./json/kf.json"
+        },
+        {
+            "key": "123",
+            "name": "123｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShareCloud123",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./json/123.json"
         },
         {
             "key": "趣盘",
@@ -1393,31 +1374,6 @@
             }
         },
         {
-            "key": "百酷",
-            "name": "百酷｜4K弹幕",
-            "type": 3,
-            "api": "./api/cloud.min.js",
-            "ext": "./api/百酷.js",
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "聚搜",
-            "name": "聚搜｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./api/aliyunpansearch.json"
-        },
-        {
             "key": "盘库",
             "name": "盘库｜4K弹幕",
             "type": 3,
@@ -1434,28 +1390,116 @@
             "key": "双星",
             "name": "双星｜4K弹幕",
             "type": 3,
-            "api": "./api/cloud.min.js",
-            "ext": "./api/双星.js",
+            "api": "./js/cloud.min.js",
+            "ext": "./js/双星.js",
             "style": {
                 "type": "list"
             }
         },
         {
-            "key": "懒盘",
-            "name": "懒盘｜4K弹幕",
+            "key": "百酷",
+            "name": "百酷｜4K弹幕",
             "type": 3,
-            "api": "./api/cloud.min.js",
-            "ext": "./api/懒盘.js",
+            "api": "./js/cloud.min.js",
+            "ext": "./js/百酷.js",
             "style": {
                 "type": "list"
             }
         },
         {
-            "key": "采集之王",
-            "name": "采集｜合集",
+            "key": "校长",
+            "name": "校长｜4K弹幕",
             "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./api/采集之王.js?type=url&params=../api/采集静态.json$1$1"
+            "api": "./js/cloud.min.js",
+            "ext": "./js/校长.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "天堂",
+            "name": "天堂｜4K弹幕",
+            "type": 3,
+            "api": "./js/cloud.min.js",
+            "ext": "./js/天堂.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "人人电影网",
+            "name": "人人｜4K弹幕",
+            "type": 3,
+            "api": "./js/cloud.min.js",
+            "ext": "./js/人人电影网.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "爱搜",
+            "name": "爱搜｜4K弹幕",
+            "type": 3,
+            "api": "./js/cloud.min.js",
+            "ext": "./js/爱搜.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "移动",
+            "name": "移动｜4K",
+            "type": 3,
+            "api": "csp_YD",
+            "searchable": 1,
+            "quickSearch": 1,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "糖果",
+            "name": "糖果｜搜索",
+            "type": 3,
+            "api": "csp_TGSou",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "米搜",
+            "name": "米搜｜搜索",
+            "type": 3,
+            "api": "csp_MiSou"
+        },
+        {
+            "key": "聚搜",
+            "name": "聚搜｜搜索",
+            "type": 3,
+            "api": "csp_PanWebSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "人人分享站",
+            "name": "人人｜搜索",
+            "type": 3,
+            "api": "./js/cloud.min.js",
+            "ext": "./js/人人分享站.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "全盘",
+            "name": "全盘｜搜索",
+            "type": 3,
+            "api": "./js/cloud.min.js",
+            "ext": "./js/全盘.js",
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "无上资源",
