@@ -782,6 +782,39 @@
             "ext": "./api/短剧屋.json"
         },
         {
+            "key": "零度影视",
+            "name": "零度｜影视",
+            "type": 3,
+            "api": "./api/零度影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "想看影视",
+            "name": "想看｜影视",
+            "type": 3,
+            "api": "./api/想看影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "追星影视",
+            "name": "追星｜影视",
+            "type": 3,
+            "api": "./api/追星影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
             "key": "满分",
             "name": "满分｜影视",
             "type": 3,
