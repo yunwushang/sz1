@@ -968,6 +968,27 @@
             "ext": "./api/永乐影视.json"
         },
         {
+            "key": "明星影视",
+            "name": "明星｜影视",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "ext": "./api/明星影视.json"
+        },
+        {
+            "key": "麦田影视",
+            "name": "麦田｜影视",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "ext": "./api/麦田影视.json"
+        },
+        {
+            "key": "免费影视",
+            "name": "免费｜影视",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "ext": "./api/免费影视.json"
+        },
+        {
             "key": "雪糕影视",
             "name": "雪糕｜影视",
             "type": 3,
@@ -1109,6 +1130,13 @@
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./api/茶杯狐.js"
+        },
+        {
+            "key": "采集之王",
+            "name": "采集｜合集",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
         },
         {
             "key": "丫丫",
