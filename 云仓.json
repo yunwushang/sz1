@@ -648,6 +648,22 @@
             "ext": "http://121.62.21.14:520/api.php/app/"
         },
         {
+            "key": "七七",
+            "name": "七七｜影视",
+            "type": 1,
+            "api": "http://6.qqqtv.top/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "推荐",
+                "电影",
+                "电视剧",
+                "综艺",
+                "动漫"
+            ]
+        },
+        {
             "key": "起点",
             "name": "起点｜影视",
             "type": 3,
