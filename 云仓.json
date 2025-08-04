@@ -95,20 +95,6 @@
             }
         },
         {
-            "key": "冬天",
-            "name": "冬天｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://154.37.152.97:5211",
-                "dataKey": "685bf108bc47b67d",
-                "dataIv": "685bf108bc47b67d",
-                "deviceId": "685bf108bc47b67d",
-                "version": ""
-            }
-        },
-        {
             "key": "火猫",
             "name": "火猫丨APP",
             "type": 3,
@@ -1609,6 +1595,20 @@
             }
         },
         {
+            "key": "dt",
+            "name": "dk｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://154.37.152.97:5211",
+                "dataKey": "685bf108bc47b67d",
+                "dataIv": "685bf108bc47b67d",
+                "deviceId": "685bf108bc47b67d",
+                "version": ""
+            }
+        },
+        {
             "key": "樱花动漫",
             "name": "樱花｜动漫",
             "type": 3,
@@ -2444,4 +2444,5 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
