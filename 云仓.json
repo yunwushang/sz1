@@ -607,6 +607,22 @@
             "ext": "./api/短剧屋.json"
         },
         {
+            "key": "天翼影视",
+            "name": "天翼｜影视",
+            "type": 1,
+            "api": "http://7.qqqtv.top/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "推荐",
+                "电影",
+                "电视剧",
+                "综艺",
+                "动漫"
+            ]
+        },
+        {
             "key": "零度影视",
             "name": "零度｜影视",
             "type": 3,
@@ -807,8 +823,7 @@
             "key": "饺子影视",
             "name": "饺子｜影视",
             "type": 3,
-            "api": "csp_Jiaozi",
-            "playerType": 2
+            "api": "csp_Jiaozi"
         },
         {
             "key": "火火影视",
@@ -2436,5 +2451,6 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
