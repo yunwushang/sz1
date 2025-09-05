@@ -575,6 +575,24 @@
             "ext": "https://www.91qkw.com"
         },
         {
+            "key": "短剧大全",
+            "name": "短剧｜大全",
+            "type": 3,
+            "api": "csp_DuanjuDQ"
+        },
+        {
+            "key": "短剧合集",
+            "name": "短剧｜合集",
+            "type": 3,
+            "api": "csp_DuanjuHJ"
+        },
+        {
+            "key": "短剧鬼鬼",
+            "name": "短剧｜鬼鬼",
+            "type": 3,
+            "api": "csp_DuanjuGG"
+        },
+        {
             "key": "星芽短剧",
             "name": "星芽｜短剧",
             "type": 3,
@@ -2499,6 +2517,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
