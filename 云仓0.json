@@ -2271,20 +2271,6 @@
     ],
     "lives": [
         {
-            "name": "AI直播",
-            "type": 0,
-            "url": "https://github.3x25.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "timeout": 10
-        },
-        {
-            "name": "Guovin",
-            "type": 0,
-            "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "timeout": 10
-        },
-        {
             "name": "16万1",
             "type": 0,
             "url": "https://gitproxy.click/https://raw.githubusercontent.com/yunwushang/Xc/refs/heads/main/mv16w.txt",
@@ -2296,15 +2282,6 @@
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yunwushang/Xc/refs/heads/main/mv16w.txt",
             "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "APTV",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.iill.top/logo/{name}.png",
-            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
             "timeout": 10
         }
     ],
@@ -2517,6 +2494,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
