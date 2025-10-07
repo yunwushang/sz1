@@ -1,5 +1,5 @@
 {
-    "spider": "./PY/yW.jar",
+    "spider": "./PY/yw.jar",
     "sites": [
         { 
             "key": "豆瓣",
@@ -2883,3 +2883,4 @@
     ]
 
 }
+
