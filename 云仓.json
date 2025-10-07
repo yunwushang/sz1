@@ -2674,6 +2674,13 @@
             "timeout": 10
         },
         {
+            "name": "16万0",
+            "type": 0,
+            "url": "http://gh.halonice.com/https://raw.githubusercontent.com/yunwushang/Xc/refs/heads/main/mv16w.txt",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
             "name": "16万",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yunwushang/Xc/refs/heads/main/mv16w.txt",
@@ -2883,4 +2890,5 @@
     ]
 
 }
+
 
