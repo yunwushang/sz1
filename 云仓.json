@@ -53,6 +53,14 @@
             }
         },
         {
+            "key": "私人",
+            "name": "私人｜APP",
+            "type": 3,
+            "changeable": 0,
+            "api": "csp_AppYsV2",
+            "ext": "https://v.catcs.cc//api.php/v1.vod"
+        },
+        {
             "key": "冷心",
             "name": "冷心｜APP",
             "type": 3,
@@ -75,30 +83,27 @@
             }
         },
         {
-            "key": "余白",
-            "name": "余白丨APP",
+            "key": "优势",
+            "name": "优势丨APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://dec.yb4k.top",
-                "dataKey": "KsmJgfp3MVQFKWRa",
-                "dataIv": "KsmJgfp3MVQFKWRa",
-                "token": "d51f0cf047e7d4c5f76e2720cfdcaa927055e77c5e8cc0a1a7e49ca198067161"
+                "url": "http://zxy-ys.810211.dpdns.org",
+                "dataKey": "1234567890123456",
+                "dataIv": "1234567890123456"
             }
         },
         {
-            "key": "秒看",
-            "name": "秒看丨APP",
+            "key": "爱影",
+            "name": "爱影｜APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet",
+            "api": "csp_AppQi",
             "ext": {
-                "site": "https://mk1080.top/get.txt",
-                "dataKey": "c60d88b2eep53za8",
-                "dataIv": "c60d88b2eep53za8",
-                "token": "06caee3952a4c97d1ad4c766c875a99d3fa83aa68f46188823600d59ebba4469",
-                "ua": "okhttp/3.10.0"
+                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
+                "dataKey": "sada21321sdq231d",
+                "dataIv": "sada21321sdq231d"
             }
         },
         {
@@ -289,31 +294,6 @@
             }
         },
         {
-            "key": "万能",
-            "name": "万能丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://wnvod.cc",
-                "dataKey": "5uBvur6znNUmE3zb",
-                "dataIv": "5uBvur6znNUmE3zb",
-                "ua": "myapp/1.0.3"
-            }
-        },
-        {
-            "key": "坚果",
-            "name": "坚果丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://a.ngdy1.cn",
-                "dataKey": "2015692015692015",
-                "dataIv": "2015692015692015"
-            }
-        },
-        {
             "key": "火花",
             "name": "火花丨APP",
             "type": 3,
@@ -347,30 +327,6 @@
                 "url": "http://www.zjcvod.com",
                 "dataKey": "ab4e9a421675f14b",
                 "dataIv": "ab4e9a421675f14b"
-            }
-        },
-        {
-            "key": "九零",
-            "name": "九零丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://65fs2d9awaa1d2a7ea8.019990.xyz",
-                "dataKey": "5a9w6x58dsq6z3a6",
-                "dataIv": "5a9w6x58dsq6z3a6"
-            }
-        },
-        {
-            "key": "米奇",
-            "name": "米奇丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://www.milkidc.cn",
-                "dataKey": "20c79c979da8db0f",
-                "dataIv": "20c79c979da8db0f"
             }
         },
         {
@@ -432,19 +388,6 @@
                 "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
                 "dataKey": "dyyztvapiappyyds",
                 "dataIv": "dyyztvapiappyyds"
-            }
-        },
-        {
-            "key": "火狐",
-            "name": "火狐丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://huohu.yihn.cc",
-                "dataKey": "huohushipingetap",
-                "dataIv": "huohushipingetap",
-                "version": "140"
             }
         },
         {
@@ -896,6 +839,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "莫小影视",
+            "name": "莫小｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./py/莫小影视.json"
         },
         {
             "key": "来看影视",
@@ -2753,6 +2703,7 @@
     ]
 
 }
+
 
 
 
