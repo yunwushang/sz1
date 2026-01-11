@@ -396,22 +396,44 @@
             "ext": "https://www.91qkw.com"
         },
         {
-            "key": "短剧大全",
-            "name": "短剧｜大全",
+            "key": "甜圈短剧",
+            "name": "甜圈｜短剧",
             "type": 3,
-            "api": "csp_DuanjuDQ"
+            "api": "csp_TianquanDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
-            "key": "短剧合集",
-            "name": "短剧｜合集",
+            "key": "锦鲤短剧",
+            "name": "锦鲤｜短剧",
             "type": 3,
-            "api": "csp_DuanjuHJ"
+            "api": "csp_JinliDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
-            "key": "短剧鬼鬼",
-            "name": "短剧｜鬼鬼",
+            "key": "七猫短剧",
+            "name": "七猫｜短剧",
             "type": 3,
-            "api": "csp_DuanjuGG"
+            "api": "csp_QiMaoDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "星阁短剧",
+            "name": "星阁｜短剧",
+            "type": 3,
+            "api": "csp_XinggeDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "星芽短剧",
@@ -2518,6 +2540,7 @@
     ]
 
 }
+
 
 
 
