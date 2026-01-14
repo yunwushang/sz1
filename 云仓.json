@@ -1,5 +1,5 @@
 {
-    "spider": "./PY/df.jar",
+    "spider": "./PY/yc.jar",
     "sites": [
         {
             "key": "豆瓣",
@@ -2494,6 +2494,7 @@
         "static-mozai.4gtv.tv"
     ]
 }
+
 
 
 
