@@ -399,30 +399,21 @@
             "ext": "https://www.91qkw.com"
         },
         {
+            "key": "围观短剧",
+            "name": "围观｜短剧",
+            "type": 3,
+            "api": "csp_WeiguanDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "genre": "shortdrama"
+        },
+        {
             "key": "甜圈短剧",
             "name": "甜圈｜短剧",
             "type": 3,
             "api": "csp_TianquanDJ",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "锦鲤短剧",
-            "name": "锦鲤｜短剧",
-            "type": 3,
-            "api": "csp_JinliDJ",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "七猫短剧",
-            "name": "七猫｜短剧",
-            "type": 3,
-            "api": "csp_QiMaoDJ",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -452,39 +443,6 @@
             "name": "甜圈｜短剧",
             "type": 3,
             "api": "./api/甜圈短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "锦鲤短剧",
-            "name": "锦鲤｜短剧",
-            "type": 3,
-            "api": "./api/锦鲤短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "河马短剧",
-            "name": "河马｜短剧",
-            "type": 3,
-            "api": "./api/河马短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "偷乐短剧",
-            "name": "偷乐｜短剧",
-            "type": 3,
-            "api": "./api/偷乐短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
