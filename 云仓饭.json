@@ -1,5 +1,5 @@
 {
-    "spider": "./fy.jar",
+    "spider": "./api/fy.jar",
     "sites": [
         {
             "key": "豆瓣",
