@@ -720,18 +720,136 @@
             "ext": "./api/明星影视.json"
         },
         {
-            "key": "麦田影视",
-            "name": "麦田｜影视",
+            "key": "[影]橘汁视频",
+            "name": "[橘汁视频",
             "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./api/麦田影视.json"
+            "api": "./PY/橘汁视频.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
-            "key": "免费影视",
-            "name": "免费｜影视",
+            "key": "草莓影视",
+            "name": "草莓影视",
             "type": 3,
-            "api": "csp_HBPQ",
-            "ext": "./api/免费影视.json"
+            "api": "./PY/草莓影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "毒舌影视",
+            "name": "毒舌 • 影视",
+            "type": 3,
+            "api": "./PY/毒舌影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "厂长影视",
+            "name": "厂长影视",
+            "type": 3,
+            "api": "./PY/厂长影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "苹果视频",
+            "name": "苹果视频",
+            "type": 3,
+            "api": "./PY/苹果视频.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "免扫",
+            "name": "免扫 影视",
+            "type": 3,
+            "api": "./PY/免扫.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "初见影视",
+            "name": "初见影视",
+            "type": 3,
+            "api": "./PY/初见影视.py"
+        },
+        {
+            "key": "百花影院",
+            "name": "百花影院",
+            "type": 3,
+            "api": "./PY/百花影院.py"
+        },
+        {
+            "key": "白洋影院",
+            "name": "白洋影院",
+            "type": 3,
+            "api": "./PY/白洋影院.py"
+        },
+        {
+            "key": "影视秒播",
+            "name": "影视秒播",
+            "type": 3,
+            "api": "./PY/影视秒播.py"
+        },
+        {
+            "key": "华谊影视",
+            "name": "华谊.影视",
+            "type": 3,
+            "api": "./PY/华谊影视.py"
+        },
+        {
+            "key": "金牌APP",
+            "name": "金牌APP",
+            "type": 3,
+            "api": "./PY/金牌APP.py"
+        },
+        {
+            "key": "麦田影院",
+            "name": "麦田影院",
+            "type": 3,
+            "api": "./PY/麦田影院.py"
+        },
+        {
+            "key": "芒果TV",
+            "name": "芒果TV",
+            "type": 3,
+            "api": "./PY/芒果TV.py"
+        },
+        {
+            "key": "多瑙影院",
+            "name": "多瑙影院",
+            "type": 3,
+            "api": "./PY/多瑙影院.py"
+        },
+        {
+            "key": "枫叶4K",
+            "name": "枫叶4K",
+            "type": 3,
+            "api": "./PY/枫叶4K.py"
+        },
+        {
+            "key": "爱看机器",
+            "name": "爱看机器",
+            "type": 3,
+            "api": "./PY/爱看机器人.py"
+        },
+        {
+            "key": "[影]咕噜咕噜",
+            "name": "[影]咕噜咕噜",
+            "type": 3,
+            "api": "./PY/咕噜咕噜.py"
         },
         {
             "key": "雪糕影视",
